@@ -12,12 +12,14 @@ Version 0.1.2-Beta
 * Windows (Soon)
 * Linux (Soon)
 
-## Found a bug? 🐞
+## Need help? 🔍
 * Check the documentation on https://docs.inproxy.io
-* Open an Issue ticket right here in GitHub.
+
+## Found a bug? 🐞
+* Open an Issue ticket right here in the Issues tab.
 
 ## Have a new Feature Request? ⭐️
-* Open a Feature Request ticket right here in GitHub.
+* Open a Feature Request ticket right here in the Issues tab.
 
 ## You need to contact us? ✉️
-* Contact us at team@inproxy.io
+* Email us at team@inproxy.io
