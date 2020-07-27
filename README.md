@@ -1,6 +1,10 @@
-<img src="https://assetsinproxy.s3.amazonaws.com/inProxyLogo.svg" alt="inProxy Logo" width="25%" height="auto"/>
+<div align="center">
+    <img src="https://assetsinproxy.s3.amazonaws.com/inProxyLogo.svg" alt="inProxy Logo" width="25%" height="auto"/>
+</div>
+<div align="center">
+    https://www.inproxy.io
+</div>
 
-Website: https://www.inproxy.io
 
 ## Overview
 **inProxy** is a cross-platform debugging proxy application that lets developers view, analyze, manipulate and mock HTTP and HTTPS from Web Servers, iOS devices, Androids devices and other applications such as Apple Xcode iOS simulator or Android emulator.
