@@ -35,3 +35,6 @@ Version 0.1.2-Beta
 <div align="center">
     Coded with ❤️
 </div>
+<div align="center">
+    The inProxy Team
+</div>
