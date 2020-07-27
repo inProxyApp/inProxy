@@ -1,10 +1,10 @@
 <div align="center">
-    <a href="https://www.inproxy.io" target="_blank">
+    <a href="https://www.inproxy.io">
         <img src="https://assetsinproxy.s3.amazonaws.com/inProxyLogo.svg" alt="inProxy Logo" width="25%" height="auto"/>
     </a>
 </div>
 <div align="center">
-    <a href="https://www.inproxy.io" target="_blank">www.inproxy.io</a>
+    <a href="https://www.inproxy.io">www.inproxy.io</a>
 </div>
 
 
@@ -29,3 +29,9 @@ Version 0.1.2-Beta
 
 ## You need to contact us? ✉️
 * Email us at team@inproxy.io
+
+<br />
+
+<div align="center">
+    Coded with ❤️
+</div>
