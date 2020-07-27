@@ -35,7 +35,7 @@ Version 0.1.2-Beta
 <br />
 
 <div align="center">
-    **Coded with ❤️**
+    **Coded with** ❤️
 </div>
 <div align="center">
     The inProxy Team
