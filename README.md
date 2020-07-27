@@ -34,8 +34,8 @@ Version 0.1.2-Beta
 <br />
 <br />
 
-<div align="center" style="font-weight: bold;">
-    Coded with ❤️
+<div align="center">
+    <strong>Coded with ❤️</strong>
 </div>
 <div align="center">
     The inProxy Team
