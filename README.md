@@ -1,5 +1,7 @@
 <div align="center">
-    <img src="https://assetsinproxy.s3.amazonaws.com/inProxyLogo.svg" alt="inProxy Logo" width="25%" height="auto"/>
+    <a href="https://www.inproxy.io" target="_blank">
+        <img src="https://assetsinproxy.s3.amazonaws.com/inProxyLogo.svg" alt="inProxy Logo" width="25%" height="auto"/>
+    </a>
 </div>
 <div align="center">
     <a href="https://www.inproxy.io" target="_blank">www.inproxy.io</a>
