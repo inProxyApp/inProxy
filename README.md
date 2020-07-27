@@ -31,9 +31,11 @@ Version 0.1.2-Beta
 * Email us at team@inproxy.io
 
 <br />
+<br />
+<br />
 
 <div align="center">
-    Coded with ❤️
+    **Coded with ❤️**
 </div>
 <div align="center">
     The inProxy Team
