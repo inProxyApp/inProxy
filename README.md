@@ -16,10 +16,10 @@ Version 0.1.2-Beta
 * Check the documentation on https://docs.inproxy.io
 
 ## Found a bug? 🐞
-* Open an Issue ticket right here in the Issues tab.
+* Open an Issue ticket right here in the [Issues section](https://github.com/inProxyApp/inProxy/issues).
 
 ## Have a new Feature Request? ⭐️
-* Open a Feature Request ticket right here in the Issues tab.
+* Open a Feature Request ticket right here in the [Issues section](https://github.com/inProxyApp/inProxy/issues).
 
 ## You need to contact us? ✉️
 * Email us at team@inproxy.io
