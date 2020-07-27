@@ -2,7 +2,7 @@
     <img src="https://assetsinproxy.s3.amazonaws.com/inProxyLogo.svg" alt="inProxy Logo" width="25%" height="auto"/>
 </div>
 <div align="center">
-    [www.inproxy.io](https://www.inproxy.io)
+    <a href="https://www.inproxy.io" target="_blank">www.inproxy.io</a>
 </div>
 
 
