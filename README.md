@@ -17,7 +17,7 @@ Version 0.1.2-Beta
 * Open an Issue ticket right here in GitHub.
 
 ## Have a new Feature Request? ⭐️
-* Open an Feature Request ticket right here in GitHub.
+* Open a Feature Request ticket right here in GitHub.
 
 ## You need to contact us? ✉️
 * Contact us at team@inproxy.io
