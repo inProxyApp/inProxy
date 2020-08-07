@@ -13,7 +13,7 @@
 
 ## Download
 
-Version 0.1.2-Beta
+Version 0.1.2-Beta [Changelog](https://github.com/inProxyApp/inProxy/releases)
 * [macOS](http://download.inproxy.io/macos/inProxy-0.1.2-Beta.dmg)
 * Windows _(Soon)_
 * Linux _(Soon)_
