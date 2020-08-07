@@ -13,10 +13,12 @@
 
 ## Download
 
-Version 0.1.2-Beta [Changelog](https://github.com/inProxyApp/inProxy/releases)
+Version 0.1.2-Beta
 * [macOS](http://download.inproxy.io/macos/inProxy-0.1.2-Beta.dmg)
 * Windows _(Soon)_
 * Linux _(Soon)_
+
+[Changelog](https://github.com/inProxyApp/inProxy/releases)
 
 ## Need help? 🔍
 * Check the documentation on https://docs.inproxy.io
