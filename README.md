@@ -14,7 +14,7 @@
 ## Download
 
 Version 0.1.2-Beta
-* [macOS](http://download.inproxy.io/macos/inProxy-latest.dmg)
+* [macOS](http://download.inproxy.io/macos/inProxy-0.1.2-Beta.dmg)
 * Windows _(Soon)_
 * Linux _(Soon)_
 
