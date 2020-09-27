@@ -17,7 +17,7 @@
 * [Windows](http://download.inproxy.io/downlod)
 * [Linux](http://download.inproxy.io/downlod)
 
-[Changelog](https://github.com/inProxyApp/inProxy/releases)
+[Changelog](https://docs.inproxy.io/changelog/changelog)
 
 ## Need help? 🔍
 * Check the documentation on https://docs.inproxy.io
