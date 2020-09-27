@@ -14,8 +14,8 @@
 ## Download
 
 * [macOS](http://download.inproxy.io/downlod)
-* Windows _(Soon)_
-* Linux _(Soon)_
+* [Windows](http://download.inproxy.io/downlod)
+* [Linux](http://download.inproxy.io/downlod)
 
 [Changelog](https://github.com/inProxyApp/inProxy/releases)
 
