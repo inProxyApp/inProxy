@@ -9,12 +9,11 @@
 
 
 ## Overview
-**inProxy** is a cross-platform debugging proxy application that let developers view, analyze, manipulate and mock HTTP and HTTPS traffic from Web Servers, iOS devices, Androids devices and other applications such as [Apple Xcode](https://developer.apple.com/documentation/xcode) iOS simulator or [Android emulator](https://developer.android.com/studio/run/emulator).
+**inProxy** is a cross-platform debugging proxy application that let developers view, analyze, manipulate and mock HTTP and HTTPS traffic from Web Servers, iOS devices, Android devices and other applications such as [Apple Xcode](https://developer.apple.com/documentation/xcode) iOS simulator or [Android emulator](https://developer.android.com/studio/run/emulator).
 
 ## Download
 
-Version 0.1.2-Beta
-* [macOS](http://download.inproxy.io/macos/inProxy-0.1.2-Beta.dmg)
+* [macOS](http://download.inproxy.io/downlod)
 * Windows _(Soon)_
 * Linux _(Soon)_
 
