@@ -13,9 +13,9 @@
 
 ## Download
 
-* [macOS](http://download.inproxy.io/downlod)
-* [Windows](http://download.inproxy.io/downlod)
-* [Linux](http://download.inproxy.io/downlod)
+* [macOS](https://www.inproxy.io)
+* [Windows](https://www.inproxy.io)
+* [Linux](https://www.inproxy.io)
 
 [Changelog](https://docs.inproxy.io/changelog/changelog)
 
